@@ -1,0 +1,23 @@
+{
+  "name": "discord.jsv13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killerclaws12/Discord.js-v13.git"
+  },
+  "author": "Killerclaws1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killerclaws12/Discord.js-v13/issues"
+  },
+  "homepage": "https://github.com/killerclaws12/Discord.js-v13#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
